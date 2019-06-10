@@ -1,0 +1,169 @@
+@media screen and (max-width: 1180px) {
+    .container {
+        width: 768px;
+    }
+
+    .header-heading {
+        font-size: 40px;
+    }
+    .hands_header {
+        text-align: center;
+    }
+
+    .hands img {
+        width: 400px;
+
+    }
+
+    .img_hands {
+        width: 400px;
+        margin-left: 0;
+        padding-bottom: 20px;
+    }
+
+    .img_hands_left {
+        width: 400px;
+        padding-bottom: 20px;
+    }
+
+    .img_hands_right {
+        width: 400px;
+        float: none;
+
+    }
+
+
+
+    .zag-section_latest_design {
+        font-size: 30px;
+    }
+
+    .our_design_zag {
+        font-size: 25px;
+    }
+
+    .icon_nav {
+        width: 120px;
+    }
+
+    .woman_zag {
+        font-size: 40px;
+    }
+
+    .woman_zag_text {
+        font-size: 12px;
+    }
+
+    .noutbook {
+        width: 500px;
+        top: 135px;
+        left: 115px;
+    }
+
+}
+@media (min-width: 768px) {
+    .features_list {
+        padding: 0;
+        margin: 0;
+        list-style: none;
+        display: flex;
+        justify-content: space-between;
+    }
+}
+@media screen and (max-width: 768px) {
+    .container {
+        width: auto;
+    }
+    .features_list {
+        list-style: none;
+    }
+    .noutbook {
+        width: 200px;
+        top: 135px;
+        left: 135px;
+    }
+}
+
+@media screen and (max-width: 600px) {
+    .container {
+        width: auto;
+    }
+
+    .header-heading {
+        font-size: 30px;
+    }
+    .logo {
+        width: 48px;
+    }
+
+    .nav-item {
+        font-size: 10px;
+        padding: 10px;
+    }
+    .nav-item-last {
+        font-size: 10px;
+    }
+    .nav-link-last {
+        padding: 10px 40px 10px 17px;
+    }
+    .nav-item-last img {
+        width: 10px;
+
+        margin: auto 12px auto auto;
+    }
+
+    .header-text {
+        font-size: 10px;
+    }
+
+    .select {
+       margin-bottom: 50px;
+    }
+
+    .header-form input {
+        width: 282px;
+    }
+    .zag-section_latest_design {
+        font-size: 20px;
+    }
+
+    .section_latest_design_text {
+        font-size: 10px;
+    }
+
+    .iphone6 {
+        width: 300px;
+    }
+
+    .img_hands_left {
+
+        width: 375px;
+    }
+
+    .img_hands {
+        width: 375px;
+    }
+    .img_hands_right {
+        width: 375px;
+    }
+
+    .hands img {
+        width: 375px;
+    }
+
+    .img_hands {
+        margin-left: 0;
+    }
+    .icon_nav {
+        width: 80px;
+    }
+    .woman_zag {
+        font-size: 30px;
+    }
+
+    .noutbook {
+        width: 200px;
+        top: 300px;
+        left: 170px;
+    }
+}
